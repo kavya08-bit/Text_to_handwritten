@@ -7,7 +7,7 @@ int main() {
     cv::Mat image(height, width, CV_8UC3, cv::Scalar(255, 255, 255));
 
 
-    std::string text = "Hello, Kavya! This is handwritten-style text.";
+    std::string text = "convert this into handwritten style.";
 
 
     int fontFace = cv::FONT_HERSHEY_SCRIPT_SIMPLEX; 
