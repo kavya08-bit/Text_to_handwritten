@@ -13,3 +13,5 @@ Prerequisites
 3.You can find installation instructions on the official OpenCV website.
 4.A handwritten-style font file (e.g., a .ttf file).
 5.A background image template (e.g., a blank page with lines).
+
+but if you want to run this project you have to install cmake ,opencv framework in your computer
